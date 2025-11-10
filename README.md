@@ -2,7 +2,7 @@
 
 "I wanted to be sure I locked my door every day without checking twice."
 
-GoTag is an Android app that connects your daily tasks with NFC/IC tags, allowing you to mark daily tasks as completed simply by scanning a tag. It's perfect for building habits, tracking routines, and confirming physical actions — like locking your door or reading a book — in real life.
+GoTag is an Android app that connects your daily tasks with NFC/IC tags, allowing you to mark daily tasks as completed simply by scanning a tag. It's perfect for building habits, tracking routines, and confirming physical actions — like locking your door or reading a book — in real life. It's also perfect for seeing when you completed a specific action or knowing how many times a specific task was done in one day. 
 
 ---
 ## Not Available Yet, this README is written by AI for now.
@@ -10,10 +10,9 @@ GoTag is an Android app that connects your daily tasks with NFC/IC tags, allowin
 
 ## Features
 
-- **NFC Task Linking** – Attach a unique NFC/IC tag to each task. When scanned, it automatically marks the task as completed for the day.
+- **NFC Task Linking** – Attach a unique NFC/IC tag to each task. When scanned, it automatically marks the task as completed for the day, each additional scan will increase the count.
 - **Daily Reset** – Tasks reset every 24 hours, encouraging consistent daily habits.
 - **Progress Tracking** – View completion history and streaks to stay motivated.
-- **Reminders** – Get notified if certain tasks haven’t been completed by a set time.
 - **Local Database** – All data is stored locally on your device for privacy and offline use.
 - **Rainmeter Integration (PC)** – Optional module for syncing local progress data to display the last 7 days and up to 5 selected tasks on your PC desktop.
 
@@ -53,8 +52,7 @@ GoTag is an Android app that connects your daily tasks with NFC/IC tags, allowin
 ---
 
 ## License
-
-MIT License. See [LICENSE](LICENSE) for details.
+Apache‑2.0
 
 ---
 
